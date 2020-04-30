@@ -1,0 +1,2 @@
+rootProject.name='Temperatura App'
+include ':app'
